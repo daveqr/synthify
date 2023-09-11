@@ -106,6 +106,8 @@ fabric.properties
 !.idea/codeStyles
 !.idea/runConfigurations
 
+.vscode
+
 ### macOS ###
 # General
 .DS_Store

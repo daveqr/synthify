@@ -16,4 +16,8 @@ $ lein run
 
 **Run the web service**
 
-TBD
+Vite + Vue 3
+
+```
+$ yarn run dev
+```
